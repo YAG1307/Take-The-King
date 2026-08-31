@@ -14,7 +14,7 @@ On startup, the game begins with a tutorial teaching the rules of the game. The 
 
 
 # Where to Play
-**Play directly on itch.io WEB or Desktop:** [Take the King on itch.io](https://yag1307.itch.io/take-the-king) 
+**Play directly on itch.io WEB or Desktop:** https://yag1307.itch.io/take-the-king
 
 ---
 
