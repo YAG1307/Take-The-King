@@ -1,9 +1,13 @@
 <img width="1024" height="290" alt="image" src="https://github.com/user-attachments/assets/5d78b635-6000-43c1-89ed-95f8fb2fb45d" />
 
----
+
+
+
 
 Take The King is a 2D 5x5 chess puzzle game where every move counts. Strategize your moves and attempt to checkmate the enemy king in just 3 moves or less. Each of the 20 levels is a brand new setup built to challenge you.
 On startup, the game begins with a tutorial teaching the rules of the game. The tutorial only appears on startup and will appear again on reset.
+
+
 
 
 ---
