@@ -1,9 +1,8 @@
-# Take the King
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/4747ef15-31af-48bf-9c9a-382fb07eba60" />
 
-Take the King is a short chess puzzle game developed in Unity. Complete 5x5 chess puzzles in 3 moves or less.
+Take The King is a 2D 5x5 chess puzzle game where every move counts. Strategize your moves and attempt to checkmate the enemy king in just 3 moves or less. Each of the 20 levels is a brand new setup built to challenge you.
 
-(Gif and screenshot)
-
+![Take the King Gameplay]()
 # Where to Play
 **Play directly on itch.io WEB or Desktop:** [Take the King on itch.io](https://yag1307.itch.io/take-the-king) 
 
